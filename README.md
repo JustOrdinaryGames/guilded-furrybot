@@ -7,5 +7,5 @@ Why? I don't know.
 2: Open run.bat
 
 # Requirements
-This uses guilded.py, buuuuuut since the pypi release (1.0.0 alpha & 0.0.5 in my tests) is broken the repository has the developer version packaged with it.
+This uses [guilded.py](https://github.com/shayypy/guilded.py), buuuuuut since the pypi release (1.0.0 alpha & 0.0.5 in my tests) are broken this repository has the developer version packaged with it.
 And, according to guilded.py's setup.py, all it needs is aiohttp (pip install aiohttp).
