@@ -1,6 +1,6 @@
 # Guilded furrybot
-A guilded userbot that will automatically edit your messages to make you sound like a furry.
-Why? I don't know.
+A guilded userbot that will automatically edit your messages to make you sound like a furry.\
+*Why?* **I don't know.**
 
 # Setup
 1: Put your guilded login in config.json\
