@@ -11,7 +11,7 @@ try:
     email = config.get('Email')
     password = config.get('Password')
 except Exception as e:
-    print('Cannot load the config, error: {e}')
+    print(f'Cannot load the config, error: {e}')
     time.sleep(10)
     exit(0)
 
